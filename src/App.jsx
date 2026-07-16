@@ -6,7 +6,7 @@ import Notebook from "./components/Notebook";
 import Skills from "./components/Skills";
 import Projects from "./components/Projects";
 import Timeline from "./components/Timeline";
-import ConspiracyBoard from "./components/ConspiracyBoard";
+import DrawingsTrail from "./components/DrawingsTrail";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import BackToTop from "./components/BackToTop";
@@ -33,7 +33,7 @@ function App() {
           <Skills />
           <Projects />
           <Timeline />
-          <ConspiracyBoard />
+          <DrawingsTrail />
           <Contact />
         </main>
         <Footer />
